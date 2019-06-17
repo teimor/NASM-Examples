@@ -1,4 +1,4 @@
-![](https://img.shields.io/badge/OS-GNU%2FLinux-green.svg)![](https://img.shields.io/badge/arch-x86__64-orange.svg)![](https://img.shields.io/badge/Assembler-NASM-blue.svg)![](https://img.shields.io/badge/license-MIT-green.svg)
+![](https://img.shields.io/badge/OS-GNU%2FLinux-green.svg) ![](https://img.shields.io/badge/arch-x86__64-orange.svg) ![](https://img.shields.io/badge/Assembler-NASM-blue.svg) ![](https://img.shields.io/badge/license-MIT-green.svg)
 
 # NASM Examples
 
